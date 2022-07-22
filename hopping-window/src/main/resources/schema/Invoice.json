@@ -1,0 +1,18 @@
+{
+  "type": "object",
+  "javaType": "com.info.types.SimpleInvoice",
+  "properties": {
+    "InvoiceNumber": {
+      "type": "string"
+    },
+    "CreatedTime": {
+      "type": "string"
+    },
+    "StoreID": {
+      "type": "string"
+    },
+    "TotalAmount": {
+      "type": "number"
+    }
+  }
+}

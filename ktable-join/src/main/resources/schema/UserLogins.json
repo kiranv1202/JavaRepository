@@ -1,0 +1,12 @@
+{
+  "type": "object",
+  "javaType": "com.info.types.UserLogin",
+  "properties": {
+    "LoginID": {
+      "type": "string"
+    },
+    "CreatedTime": {
+      "type": "string"
+    }
+  }
+}

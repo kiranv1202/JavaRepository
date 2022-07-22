@@ -1,0 +1,15 @@
+{
+  "type": "object",
+  "javaType": "com.info.types.UserDetails",
+  "properties": {
+    "UserName": {
+      "type": "string"
+    },
+    "LoginID": {
+      "type": "string"
+    },
+    "LastLogin": {
+      "type": "string"
+    }
+  }
+}
