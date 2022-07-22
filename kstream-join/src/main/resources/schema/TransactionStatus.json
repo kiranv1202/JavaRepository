@@ -1,0 +1,12 @@
+{
+  "type": "object",
+  "javaType": "com.info.types.TransactionStatus",
+  "properties": {
+    "TransactionID": {
+      "type": "string"
+    },
+    "Status": {
+      "type": "string"
+    }
+  }
+}

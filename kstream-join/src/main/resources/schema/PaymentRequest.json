@@ -1,0 +1,24 @@
+{
+  "type": "object",
+  "javaType": "com.info.types.PaymentRequest",
+  "properties": {
+    "TransactionID": {
+      "type": "string"
+    },
+    "CreatedTime": {
+      "type": "string"
+    },
+    "SourceAccountID": {
+      "type": "string"
+    },
+    "TargetAccountID": {
+      "type": "string"
+    },
+    "Amount": {
+      "type": "number"
+    },
+    "OTP": {
+      "type": "string"
+    }
+  }
+}

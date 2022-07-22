@@ -1,0 +1,15 @@
+{
+  "type": "object",
+  "javaType": "com.info.types.PaymentConfirmation",
+  "properties": {
+    "TransactionID": {
+      "type": "string"
+    },
+    "CreatedTime": {
+      "type": "string"
+    },
+    "OTP": {
+      "type": "string"
+    }
+  }
+}
